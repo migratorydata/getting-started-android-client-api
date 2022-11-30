@@ -1,1 +1,0 @@
-Getting started with MigratoryData Android Client API V6
