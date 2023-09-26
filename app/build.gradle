@@ -27,6 +27,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 
     // https://mvnrepository.com/artifact/com.migratorydata/client-java-api
-    implementation group: 'com.migratorydata', name: 'client-java-api', version: '6.0.0'
+    implementation group: 'com.migratorydata', name: 'client-java-api', version: '6.0.3'
 }
 
